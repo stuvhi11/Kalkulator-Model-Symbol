@@ -14,8 +14,8 @@ Masukkan bilangan pertama dan kedua
 ## Pilih Operasi Symbol  
 
 ```iput
-Pilih bentuk opersi (+, -, :, *)
-Masukkan bentuk operasi yang di ingin kan? *
+Pilih bentuk operasi (+, -, :, *)
+Masukkan bentuk operasi yang diingin kan! *
 ```  
 Jika anda memasukkan selain symbol (+, -, :, *) maka akan menampilkan  
 ```tidak
