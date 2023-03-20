@@ -34,10 +34,10 @@ Have a nice day!!
 Hasil dari 1 * 2 = 2
 Apakah anda akan melakukan Program Perhitungan lagi? (ya/tidak)
 ```  
-
 Jika anda menjawab "ya" maka akan menampilkan **tampilan input** , dan jika anda menjawab "tidak" maka akan menampilkan :  
 ```tidak
 Terimakasih telah melakukan program perhitungan ini
 Have a nice day!!
 ```
----
+---  
+![kalkulator2](https://github.com/stuvhi11/assets/blob/main/kalkulator2.gif)
